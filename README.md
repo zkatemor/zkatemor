@@ -10,4 +10,4 @@ My name is Ekaterina, i'm 22
 - ea.zababurina@gmail.com 
 - [t.me/katemorr](http://t.me/katemorr)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zkatemor)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkatemor&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
