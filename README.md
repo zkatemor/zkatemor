@@ -9,3 +9,5 @@ My name is Ekaterina, i'm 22
 ##### 📫 Contacts:
 - ea.zababurina@gmail.com 
 - [t.me/katemorr](http://t.me/katemorr)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zkatemor)
