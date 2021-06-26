@@ -13,6 +13,9 @@
 </a>
 
 <br />
+<br />
+<br />
+
 
 ```python
 about_me = {
@@ -27,5 +30,9 @@ about_me = {
 }
 ```
 
+<br />
+<br />
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkatemor&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
-<img align='right' src="https://raw.githubusercontent.com/zkatemor/zkatemor/main/assets/programmerka.png" width="200">
+<img align='right' src="https://raw.githubusercontent.com/zkatemor/zkatemor/main/assets/programmerka.png" width="500">
