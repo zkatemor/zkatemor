@@ -29,9 +29,6 @@ about_me = {
     'interests': ['backend (python)', 'artificial intelligence', 'machine learning'],
 }
 ```
-
-<br />
-<br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkatemor&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
