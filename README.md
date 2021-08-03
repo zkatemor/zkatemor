@@ -23,8 +23,16 @@ about_me = {
     'birthday': '1998-07-16',
     'location': 'Russia, St. Petersburg',
     'education': {
-        'bachelor_degree': "Vyatka State University'20 (Software Development)",
-        'master_degree': "Peter the Great St. Petersburg Polytechnic University'22 (Software Engineering)"
+        'bachelor_degree': {
+            'uni': 'Vyatka State University',
+            'dates': '2016 - 2020',
+            'study_program': 'Software Development'
+        },
+        'master_degree': {
+            'uni': 'Peter the Great St. Petersburg Polytechnic University',
+            'dates': '2020 - 2022',
+            'study_program': 'Software Engineering'
+        }
     },
     'interests': ['backend (python)', 'artificial intelligence', 'machine learning'],
 }
