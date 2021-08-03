@@ -22,18 +22,20 @@ about_me = {
     'fullname': 'Ekaterina Zababurina',
     'birthday': '1998-07-16',
     'location': 'Russia, St. Petersburg',
-    'education': {
-        'bachelor_degree': {
+    'education': [
+        {
+            'degree': 'bachelor',
             'uni': 'Vyatka State University',
             'dates': '2016 - 2020',
             'study_program': 'Software Development'
         },
-        'master_degree': {
+        {
+            'degree': 'master',
             'uni': 'Peter the Great St. Petersburg Polytechnic University',
             'dates': '2020 - 2022',
             'study_program': 'Software Engineering'
         }
-    },
+    ],
     'interests': ['backend (python)', 'artificial intelligence', 'machine learning'],
 }
 ```
