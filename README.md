@@ -8,10 +8,6 @@
   <img align="left" alt="Ekaterina Zababurina | LinkedIn" width="25px" src="https://raw.githubusercontent.com/zkatemor/zkatemor/main/assets/linkedin.svg" />
 </a>
 
-<a href="https://open.spotify.com/user/63mcvtnwn6h8ablhqadnhbhbm">
-  <img align="left" alt="Ekaterina Zababurina | Spotify" width="25px" src="https://raw.githubusercontent.com/zkatemor/zkatemor/main/assets/spotify.svg" />
-</a>
-
 <br />
 <br />
 <br />
