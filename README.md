@@ -1,11 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://t.me/katemorr">
-  <img align="left" alt="Ekaterina Zababurina | Telegram" width="25px" src="https://raw.githubusercontent.com/zkatemor/zkatemor/main/assets/telegram.svg" />
+  <img align="left" alt="Ekaterina Zababurina | Telegram" width="25px" src="https://raw.githubusercontent.com/zkatemor/zkatemor/main/assets/icons8-telegram.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/ekaterina-zababurina/">
-  <img align="left" alt="Ekaterina Zababurina | LinkedIn" width="25px" src="https://raw.githubusercontent.com/zkatemor/zkatemor/main/assets/linkedin.svg" />
+  <img align="left" alt="Ekaterina Zababurina | LinkedIn" width="25px" src="https://raw.githubusercontent.com/zkatemor/zkatemor/main/assets/icons8-linkedin.svg" />
 </a>
 
 <br />
